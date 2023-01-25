@@ -1,0 +1,16 @@
+root = true
+
+[*]
+end_of_line = lf
+insert_finale_new_line = true
+
+[*.{ts,tsx,js}]
+charset = utf8
+indent_stype = space
+indent_size = 2
+
+[*.css]
+charset = utf8
+indent_stype = space
+indent_size = 4
+
